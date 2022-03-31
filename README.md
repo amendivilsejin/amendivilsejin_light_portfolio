@@ -2,7 +2,7 @@
 ### By Alejandro Mendivil. Data scientist, embedded systems firmware developer, IoT solutions developer.
 
 #### Contact:
-* e-mail: alo.123@hotmail.es | amendivilsejin@gmail.com
+* e-mail: alo.123@hotmail.es / amendivilsejin@gmail.com
 * Linked-in: [linkedin.com/in/amedivilsejin](linkedin.com/in/amedivilsejin)
 
 ## General guidelines:
